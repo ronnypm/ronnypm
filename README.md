@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Ronny
 
-<!--
-**ronnypm/ronnypm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me interesa la programación y las redes. Actualmente estoy aprendiendo **Python** y explorando el mundo de la administración de sistemas y redes. 🚀  
 
-Here are some ideas to get you started:
+🌐 **Tecnologías**:  
+- Python  
+- Redes Cisco  
+- SQL  
+- Docker (aprendiendo)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Explorando el mundo de la administración de redes y la seguridad informática.  
+
+¡Bienvenido a mi perfil! 😃
