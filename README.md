@@ -12,7 +12,7 @@
 
 <br>
 
-- 📌 Estudiante de Ingeniería en Sistemas.
+- 📌 Redes y comunincaciones.
 - 🐍 Apasionado por Python y el desarrollo de software.
 - 🌐 Conocimientos en redes y administración de sistemas.
 - 🔧 Explorando el mundo de DevOps, Docker y ciberseguridad.
